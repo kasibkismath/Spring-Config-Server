@@ -3,7 +3,6 @@ target/
 .mvn/
 .classpath
 .project
-.gitignore
 
 ### STS ###
 .apt_generated
